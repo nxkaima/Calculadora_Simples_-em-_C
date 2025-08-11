@@ -1,4 +1,5 @@
-Calculadora Simples em C
+Calculadora Simples em C 
+
 📋 Descrição do Projeto
 Esta aplicação console implementa uma calculadora aritmética básica desenvolvida em linguagem C, demonstrando fundamentos sólidos de programação estruturada e manipulação de entrada/saída. O programa processa operações matemáticas em tempo real através de uma interface minimalista e eficiente.
 🎯 Objetivo
